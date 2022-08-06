@@ -1,3 +1,4 @@
+import os
 from time import sleep
 
 import telegram
@@ -125,7 +126,7 @@ def main() -> None:
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
     # updater = Updater("2043435289:AAFOc0Q1mSCacbmJBZw6cYx7ys93kQscWbY") # prod
-    updater = Updater("5594308493:AAGFf_dXgMjdo3nz2JjyVhSe1JZ4vP-treM")
+    updater = Updater(os.getenv("BOT_ID", "5594308493:AAGFf_dXgMjdo3nz2JjyVhSe1JZ4vP-treM"))
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher

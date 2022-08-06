@@ -1,4 +1,6 @@
 import json
+import os
+
 from telegram.ext import Updater
 import config
 from datetime import datetime
@@ -25,8 +27,9 @@ def UpdateUsers():
     messages=json.load(open("Messages.json","r"))
     # Create the Updater and pass it your bot's token.
     # updater = Updater("2043435289:AAFOc0Q1mSCacbmJBZw6cYx7ys93kQscWbY") # prod
-    updater = Updater("5594308493:AAGFf_dXgMjdo3nz2JjyVhSe1JZ4vP-treM")
-    myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
+    updater = Updater(os.getenv("BOT_ID", "5594308493:AAGFf_dXgMjdo3nz2JjyVhSe1JZ4vP-treM"))
+    # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     while (True):

@@ -1,0 +1,416 @@
+{
+  "_id": 1069822475,
+  "name": "Chris",
+  "username": "",
+  "number": 96100000000,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:39.247Z"
+  },
+  "startdate": {
+    "$date": "2022-04-20T08:51:27.454Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5193951583,
+  "name": "Marco Bardus",
+  "username": "",
+  "number": 447379513450,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:40.446Z"
+  },
+  "startdate": {
+    "$date": "2022-04-20T08:51:27.454Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5369386908,
+  "name": "Lama",
+  "username": "",
+  "number": 96170620168,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:42.250Z"
+  },
+  "startdate": {
+    "$date": "2022-04-23T14:35:47.827Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 2088458752,
+  "name": "Malika",
+  "username": "",
+  "number": 96170282673,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:43.511Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T01:17:33.303Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5160379067,
+  "name": "فاطمة زهوري",
+  "username": "",
+  "number": 96176959150,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:44.715Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:00:21.465Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 515057475,
+  "name": "Bushra Masri",
+  "username": "",
+  "number": 96171732550,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:45.935Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:01:07.275Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 716031133,
+  "name": "### $$$",
+  "username": "",
+  "number": 96176120808,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:47.259Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:01:42.250Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 1346912612,
+  "name": "Ramona",
+  "username": "",
+  "number": 96176353079,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:49.183Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:01:57.056Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 2117050460,
+  "name": "MD ♡♡♡♡",
+  "username": "MD1w34",
+  "number": 9613552569,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:50.772Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:01:59.167Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5308603201,
+  "name": "Gracia Melhem",
+  "username": "",
+  "number": 96170928446,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:51.963Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:03:05.538Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5150085976,
+  "name": "رويدا برغلة",
+  "username": "",
+  "number": 96176516241,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:53.175Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:04:05.411Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 1951606567,
+  "name": "@@@@@ ######",
+  "username": "",
+  "number": 96171872286,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:55.318Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:04:09.045Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5133047647,
+  "name": "منى",
+  "username": "",
+  "number": 96178994583,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:56.481Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:05:30.771Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5210760438,
+  "name": "Eman Staif",
+  "username": "",
+  "number": 96181475839,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T12:28:58.424Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T12:08:59.327Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 2058226659,
+  "name": "m m",
+  "username": "",
+  "number": 96178937470,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:18.069Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:02:20.102Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5137253130,
+  "name": "Soh Soh",
+  "username": "",
+  "number": 96176566038,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:19.263Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:08:09.385Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5295676725,
+  "name": "Hafiza Alzhore",
+  "username": "",
+  "number": 96171731896,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:31.439Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:13:50.784Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 1902947639,
+  "name": "أمل",
+  "username": "",
+  "number": 96176988699,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:33.911Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:14:03.780Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5270181836,
+  "name": "Halwam Alzhori",
+  "username": "",
+  "number": 96171707891,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:35.106Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:15:16.834Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5239108238,
+  "name": "ياسمين الشام",
+  "username": "",
+  "number": 96176745693,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:36.302Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:15:43.045Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5140150186,
+  "name": "Fatima",
+  "username": "",
+  "number": 96171708726,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:37.520Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:19:31.712Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5337226333,
+  "name": "امنة",
+  "username": "",
+  "number": 96181660611,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:38.723Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:20:22.900Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 2004978981,
+  "name": "Najwa",
+  "username": "",
+  "number": 96171866221,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:39.937Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:20:57.760Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5388193596,
+  "name": "Rihab",
+  "username": "",
+  "number": 96171343587,
+  "stage": 5,
+  "nextmsg": {
+    "$date": "2022-04-27T14:04:41.142Z"
+  },
+  "startdate": {
+    "$date": "2022-04-24T13:22:53.389Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 5283117642,
+  "name": "Sawsan Abdulrahim",
+  "username": "",
+  "number": 96170946193,
+  "stage": 0,
+  "nextmsg": {
+    "$date": "2022-04-25T17:26:10.031Z"
+  },
+  "startdate": {
+    "$date": "2022-04-25T17:26:10.031Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}
+{
+  "_id": 1533130566,
+  "name": "ريم رعد",
+  "username": "",
+  "number": 96176849603,
+  "stage": 0,
+  "nextmsg": {
+    "$date": "2022-04-26T03:24:36.234Z"
+  },
+  "startdate": {
+    "$date": "2022-04-26T03:24:36.234Z"
+  },
+  "enddate": {
+    "$date": "1970-01-01T00:00:00Z"
+  }
+}

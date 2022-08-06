@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: lebanese-bot-db
+    ports:
+      - 27017:27017
+    volumes:
+      - ~/telegram:/data/db
+      - ./mongo-init.js:/docker-entrypoint-initdb.d/mongo-init.js
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=aDXFitC
+      - MONGO_INITDB_ROOT_PASSWORD=aDFit&gr3exiHXDA31vb
+      - MONGO_INITDB_DATABASE=admin
+    networks:
+      - mayla
+
+  lebanese-bot:
+    image: xedev/mayla:lebanese-bot
+    container_name: lebanese-bot
+    depends_on:
+      - mongodb
+    environment:
+      CONNECTION_STRING: "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@mongodb:27017/"
+      # prodBOT_ID: "2043435289:AAFOc0Q1mSCacbmJBZw6cYx7ys93kQscWbY"
+    networks:
+      - mayla
+
+networks:
+  mayla:
+    driver: bridge
