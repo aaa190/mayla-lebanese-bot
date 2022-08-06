@@ -1,0 +1,136 @@
+INFO 2022-04-23 20:19:03,930 - Intervention Script Running
+INFO 2022-04-24 12:22:51,780 - Intervention Script Running
+INFO 2022-04-24 12:24:18,076 - Intervention Script Running
+INFO 2022-04-24 12:25:18,137 - Scheduled Time Started
+INFO 2022-04-24 12:25:20,440 - User 1069822475 Received stage: 0 Message
+INFO 2022-04-24 12:25:21,826 - User 5193951583 Received stage: 0 Message
+INFO 2022-04-24 12:25:23,646 - User 5369386908 Received stage: 0 Message
+INFO 2022-04-24 12:25:24,850 - User 2088458752 Received stage: 0 Message
+INFO 2022-04-24 12:25:26,628 - User 5160379067 Received stage: 0 Message
+INFO 2022-04-24 12:25:27,859 - User 515057475 Received stage: 0 Message
+INFO 2022-04-24 12:25:29,083 - User 716031133 Received stage: 0 Message
+INFO 2022-04-24 12:25:31,101 - User 1346912612 Received stage: 0 Message
+INFO 2022-04-24 12:25:32,460 - User 2117050460 Received stage: 0 Message
+INFO 2022-04-24 12:25:33,782 - User 5308603201 Received stage: 0 Message
+INFO 2022-04-24 12:25:36,385 - User 5150085976 Received stage: 0 Message
+INFO 2022-04-24 12:25:37,577 - User 1951606567 Received stage: 0 Message
+INFO 2022-04-24 12:25:38,780 - User 5133047647 Received stage: 0 Message
+INFO 2022-04-24 12:25:40,842 - User 5210760438 Received stage: 0 Message
+INFO 2022-04-24 12:26:11,928 - User 1069822475 Received stage: 1 Message
+INFO 2022-04-24 12:26:15,065 - User 5193951583 Received stage: 1 Message
+INFO 2022-04-24 12:26:16,107 - User 5369386908 Received stage: 1 Message
+INFO 2022-04-24 12:26:17,587 - User 2088458752 Received stage: 1 Message
+INFO 2022-04-24 12:26:18,619 - User 5160379067 Received stage: 1 Message
+INFO 2022-04-24 12:26:20,547 - User 515057475 Received stage: 1 Message
+INFO 2022-04-24 12:26:21,561 - User 716031133 Received stage: 1 Message
+INFO 2022-04-24 12:26:22,619 - User 1346912612 Received stage: 1 Message
+INFO 2022-04-24 12:26:23,657 - User 2117050460 Received stage: 1 Message
+INFO 2022-04-24 12:26:25,231 - User 5308603201 Received stage: 1 Message
+INFO 2022-04-24 12:26:27,620 - User 5150085976 Received stage: 1 Message
+INFO 2022-04-24 12:26:29,021 - User 1951606567 Received stage: 1 Message
+INFO 2022-04-24 12:26:30,071 - User 5133047647 Received stage: 1 Message
+INFO 2022-04-24 12:26:31,976 - User 5210760438 Received stage: 1 Message
+INFO 2022-04-24 12:27:03,268 - User 1069822475 Received stage: 2 Message
+INFO 2022-04-24 12:27:04,335 - User 5193951583 Received stage: 2 Message
+INFO 2022-04-24 12:27:05,387 - User 5369386908 Received stage: 2 Message
+INFO 2022-04-24 12:27:06,485 - User 2088458752 Received stage: 2 Message
+INFO 2022-04-24 12:27:07,601 - User 5160379067 Received stage: 2 Message
+INFO 2022-04-24 12:27:08,798 - User 515057475 Received stage: 2 Message
+INFO 2022-04-24 12:27:10,016 - User 716031133 Received stage: 2 Message
+INFO 2022-04-24 12:27:11,212 - User 1346912612 Received stage: 2 Message
+INFO 2022-04-24 12:27:12,455 - User 2117050460 Received stage: 2 Message
+INFO 2022-04-24 12:27:13,565 - User 5308603201 Received stage: 2 Message
+INFO 2022-04-24 12:27:14,914 - User 5150085976 Received stage: 2 Message
+INFO 2022-04-24 12:27:16,042 - User 1951606567 Received stage: 2 Message
+INFO 2022-04-24 12:27:17,096 - User 5133047647 Received stage: 2 Message
+INFO 2022-04-24 12:27:18,142 - User 5210760438 Received stage: 2 Message
+INFO 2022-04-24 12:27:50,157 - User 1069822475 Received stage: 3 Message
+INFO 2022-04-24 12:27:51,389 - User 5193951583 Received stage: 3 Message
+INFO 2022-04-24 12:27:52,663 - User 5369386908 Received stage: 3 Message
+INFO 2022-04-24 12:27:53,866 - User 2088458752 Received stage: 3 Message
+INFO 2022-04-24 12:27:55,087 - User 5160379067 Received stage: 3 Message
+INFO 2022-04-24 12:27:56,306 - User 515057475 Received stage: 3 Message
+INFO 2022-04-24 12:27:57,536 - User 716031133 Received stage: 3 Message
+INFO 2022-04-24 12:27:58,816 - User 1346912612 Received stage: 3 Message
+INFO 2022-04-24 12:28:00,056 - User 2117050460 Received stage: 3 Message
+INFO 2022-04-24 12:28:01,315 - User 5308603201 Received stage: 3 Message
+INFO 2022-04-24 12:28:02,533 - User 5150085976 Received stage: 3 Message
+INFO 2022-04-24 12:28:03,760 - User 1951606567 Received stage: 3 Message
+INFO 2022-04-24 12:28:05,406 - User 5133047647 Received stage: 3 Message
+INFO 2022-04-24 12:28:08,092 - User 5210760438 Received stage: 3 Message
+INFO 2022-04-24 12:28:39,294 - User 1069822475 Received stage: 4 Message
+INFO 2022-04-24 12:28:40,491 - User 5193951583 Received stage: 4 Message
+INFO 2022-04-24 12:28:42,295 - User 5369386908 Received stage: 4 Message
+INFO 2022-04-24 12:28:43,561 - User 2088458752 Received stage: 4 Message
+INFO 2022-04-24 12:28:44,763 - User 5160379067 Received stage: 4 Message
+INFO 2022-04-24 12:28:45,984 - User 515057475 Received stage: 4 Message
+INFO 2022-04-24 12:28:47,304 - User 716031133 Received stage: 4 Message
+INFO 2022-04-24 12:28:49,228 - User 1346912612 Received stage: 4 Message
+INFO 2022-04-24 12:28:50,817 - User 2117050460 Received stage: 4 Message
+INFO 2022-04-24 12:28:52,010 - User 5308603201 Received stage: 4 Message
+INFO 2022-04-24 12:28:53,222 - User 5150085976 Received stage: 4 Message
+INFO 2022-04-24 12:28:55,370 - User 1951606567 Received stage: 4 Message
+INFO 2022-04-24 12:28:56,527 - User 5133047647 Received stage: 4 Message
+INFO 2022-04-24 12:28:58,469 - User 5210760438 Received stage: 4 Message
+INFO 2022-04-24 12:29:28,476 - Users All Updated
+INFO 2022-04-24 14:02:12,957 - Intervention Script Running
+INFO 2022-04-24 14:02:12,963 - Scheduled Time Started
+INFO 2022-04-24 14:02:14,872 - User 2058226659 Received stage: 0 Message
+INFO 2022-04-24 14:02:46,142 - User 5137253130 Received stage: 0 Message
+INFO 2022-04-24 14:03:37,040 - Intervention Script Running
+INFO 2022-04-24 14:03:37,047 - Scheduled Time Started
+INFO 2022-04-24 14:03:38,749 - User 2058226659 Received stage: 1 Message
+INFO 2022-04-24 14:03:39,798 - User 5137253130 Received stage: 1 Message
+INFO 2022-04-24 14:03:40,995 - User 5295676725 Received stage: 0 Message
+INFO 2022-04-24 14:03:42,998 - User 1902947639 Received stage: 0 Message
+INFO 2022-04-24 14:03:44,194 - User 5270181836 Received stage: 0 Message
+INFO 2022-04-24 14:03:45,385 - User 5239108238 Received stage: 0 Message
+INFO 2022-04-24 14:03:46,640 - User 5140150186 Received stage: 0 Message
+INFO 2022-04-24 14:03:47,904 - User 5337226333 Received stage: 0 Message
+INFO 2022-04-24 14:03:49,124 - User 2004978981 Received stage: 0 Message
+INFO 2022-04-24 14:03:51,265 - User 5388193596 Received stage: 0 Message
+INFO 2022-04-24 14:03:52,887 - User 2058226659 Received stage: 2 Message
+INFO 2022-04-24 14:03:54,856 - User 5137253130 Received stage: 2 Message
+INFO 2022-04-24 14:03:56,039 - User 5295676725 Received stage: 1 Message
+INFO 2022-04-24 14:03:57,341 - User 1902947639 Received stage: 1 Message
+INFO 2022-04-24 14:03:58,493 - User 5270181836 Received stage: 1 Message
+INFO 2022-04-24 14:03:59,639 - User 5239108238 Received stage: 1 Message
+INFO 2022-04-24 14:04:00,776 - User 5140150186 Received stage: 1 Message
+INFO 2022-04-24 14:04:01,873 - User 5337226333 Received stage: 1 Message
+INFO 2022-04-24 14:04:02,924 - User 2004978981 Received stage: 1 Message
+INFO 2022-04-24 14:04:03,993 - User 5388193596 Received stage: 1 Message
+INFO 2022-04-24 14:04:05,723 - User 2058226659 Received stage: 3 Message
+INFO 2022-04-24 14:04:07,164 - User 5137253130 Received stage: 3 Message
+INFO 2022-04-24 14:04:08,251 - User 5295676725 Received stage: 2 Message
+INFO 2022-04-24 14:04:09,314 - User 1902947639 Received stage: 2 Message
+INFO 2022-04-24 14:04:10,372 - User 5270181836 Received stage: 2 Message
+INFO 2022-04-24 14:04:11,455 - User 5239108238 Received stage: 2 Message
+INFO 2022-04-24 14:04:13,148 - User 5140150186 Received stage: 2 Message
+INFO 2022-04-24 14:04:14,417 - User 5337226333 Received stage: 2 Message
+INFO 2022-04-24 14:04:15,506 - User 2004978981 Received stage: 2 Message
+INFO 2022-04-24 14:04:16,547 - User 5388193596 Received stage: 2 Message
+INFO 2022-04-24 14:04:18,118 - User 2058226659 Received stage: 4 Message
+INFO 2022-04-24 14:04:19,308 - User 5137253130 Received stage: 4 Message
+INFO 2022-04-24 14:04:20,516 - User 5295676725 Received stage: 3 Message
+INFO 2022-04-24 14:04:21,752 - User 1902947639 Received stage: 3 Message
+INFO 2022-04-24 14:04:22,967 - User 5270181836 Received stage: 3 Message
+INFO 2022-04-24 14:04:25,050 - User 5239108238 Received stage: 3 Message
+INFO 2022-04-24 14:04:26,268 - User 5140150186 Received stage: 3 Message
+INFO 2022-04-24 14:04:27,481 - User 5337226333 Received stage: 3 Message
+INFO 2022-04-24 14:04:28,677 - User 2004978981 Received stage: 3 Message
+INFO 2022-04-24 14:04:29,885 - User 5388193596 Received stage: 3 Message
+INFO 2022-04-24 14:04:31,483 - User 5295676725 Received stage: 4 Message
+INFO 2022-04-24 14:04:33,961 - User 1902947639 Received stage: 4 Message
+INFO 2022-04-24 14:04:35,151 - User 5270181836 Received stage: 4 Message
+INFO 2022-04-24 14:04:36,354 - User 5239108238 Received stage: 4 Message
+INFO 2022-04-24 14:04:37,566 - User 5140150186 Received stage: 4 Message
+INFO 2022-04-24 14:04:38,767 - User 5337226333 Received stage: 4 Message
+INFO 2022-04-24 14:04:39,983 - User 2004978981 Received stage: 4 Message
+INFO 2022-04-24 14:04:41,189 - User 5388193596 Received stage: 4 Message
+INFO 2022-04-24 14:05:11,208 - Users All Updated
+INFO 2022-08-03 22:27:29,038 - Intervention Script Running
+INFO 2022-08-03 22:27:53,528 - Intervention Script Running
+INFO 2022-08-03 22:28:23,561 - Scheduled Time Started
+INFO 2022-08-03 22:28:25,998 - User 1092573095 Received stage: 0 Message
+INFO 2022-08-03 22:28:25,998 - Users All Updated
+INFO 2022-08-03 22:28:56,027 - Scheduled Time Started
