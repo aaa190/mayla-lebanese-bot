@@ -4,7 +4,7 @@ import os
 def checknewuser(id):
     import pymongo
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     res=usercol.find_one({"_id": id})
@@ -14,7 +14,7 @@ def checknewuser(id):
 def saveuser(id,fullname,username,number):
     import pymongo,datetime
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
 
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
@@ -25,7 +25,7 @@ def saveuser(id,fullname,username,number):
 def getstage(id):
     import pymongo
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     if(usercol.find_one({"_id":id})!=None):
@@ -41,7 +41,7 @@ def incstage(id):
     import pymongo
     next_date=datetime.today() + timedelta(days=3)
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     usercol.find_one_and_update({"_id": id},{'$set':{'stage':(getstage(id)+1),'nextmsg':next_date}})
@@ -50,7 +50,7 @@ def incstage(id):
 def getenddate(id):
     import pymongo
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     if(usercol.find_one({"_id":id})!=None):
@@ -65,7 +65,7 @@ def removeuser(id):
     from datetime import datetime
     import pymongo
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     usercol.find_one_and_update({"_id": id},{'$set':{'enddate':datetime.now()}})
@@ -75,7 +75,7 @@ def reactivateuser(id):
     import datetime
     import pymongo
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     usercol.find_one_and_update({"_id": id},{'$set':{'enddate':datetime.datetime.utcfromtimestamp(0)}})
@@ -85,7 +85,7 @@ def broadcast(msg):
     import pymongo
     from telegram.ext import Updater
     # myclient = pymongo.MongoClient('localhost:27017', username='root', password='root2022')
-    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://root:root2022@localhost:27017/"))
+    myclient = pymongo.MongoClient(os.getenv("CONNECTION_STRING", "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@localhost:27017/"))
     mydb = myclient["MAYLA"]
     usercol = mydb["users"]
     # updater = Updater("2043435289:AAFOc0Q1mSCacbmJBZw6cYx7ys93kQscWbY") # prod

@@ -4,6 +4,7 @@ services:
   mongodb:
     image: mongo:latest
     container_name: lebanese-bot-db
+    restart: always
     ports:
       - 27017:27017
     volumes:
@@ -19,11 +20,12 @@ services:
   lebanese-bot:
     image: xedev/mayla:lebanese-bot
     container_name: lebanese-bot
+    restart: always
     depends_on:
       - mongodb
     environment:
       CONNECTION_STRING: "mongodb://aDXFitC:aDFit&gr3exiHXDA31vb@mongodb:27017/"
-      # prodBOT_ID: "2043435289:AAFOc0Q1mSCacbmJBZw6cYx7ys93kQscWbY"
+      #BOT_ID: "2043435289:AAFOc0Q1mSCacbmJBZw6cYx7ys93kQscWbY" # prod
     networks:
       - mayla
 
